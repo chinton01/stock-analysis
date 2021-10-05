@@ -4,14 +4,28 @@
 The purpose of this project is to create an analysis of the entire stock market by refactoring code for Steve. Steve initially wanted to look into a dozen stocks as reference for his parents who are interested in making an investment. The original code worked well for Steve and made it easier for him to navigate the given stocks. However, Steve would like to continue to research more stocks for his parents and wants to have the dataset incoporate the entire stock matket.
 
 ## Results
--Describe The analysis with screen shots and code:
 
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/90741799/135964685-b4123d4c-7256-481d-8ef9-c74ac8424bf6.png)
+After refactoring the script in VBA the stock performance was significantly better than the performance of 2018. The majority of stocks that year had a greater total volume which indicates how often a stock was shared. We can also look at the percentage of yearly returns to see if the price increased or decreased, and looking at the dataset we can conclude that the majority of the stocks in 2017 had a increase in price.
+
+
+
+
+VBA 2017 Chart: ![VBA_2017_Chart](https://user-images.githubusercontent.com/90741799/135965491-76a76ec4-0433-4198-afda-1fa3c4d31c2b.png)
+
+
+Now looking into
+
+
+![2017_Code_Time](https://user-images.githubusercontent.com/90741799/136038644-89dd4a9d-4bbb-4b9c-8a19-d2a82fe8eabd.png)
+
+
 
 " compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script."
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/90741799/135964696-e57c5a96-15d7-4490-9972-15e70e239cae.png)
-VBA 2018 Chart: ![VBA_2018_Chart](https://user-images.githubusercontent.com/90741799/135964956-e6b08791-6b4b-41d0-83c7-11d84d2d79f0.png)
-VBA 2017 Chart: ![VBA_2017_Chart](https://user-images.githubusercontent.com/90741799/135965491-76a76ec4-0433-4198-afda-1fa3c4d31c2b.png)
+VBA 2018 Chart: ![VBA_2018_Chart](https://user-images.githubusercontent.com/90741799/136038071-2c92a31a-f3db-4638-9923-f931705eae93.png)
+
+
+VBA 2018 Time:
+![2018_Code_Time](https://user-images.githubusercontent.com/90741799/136038684-8d3a4918-5441-42d6-85fd-f6cee8544404.png)
 
 ## Summary
 ### Pros of Refactoring code:
